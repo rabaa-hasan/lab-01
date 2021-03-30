@@ -1,0 +1,58 @@
+div{
+    border: 1px solid rgb(156, 155, 155);
+    background-color: rgb(184, 183, 183);
+    text-align: center;
+    
+}
+.a{
+    
+    width: 100%;
+  height: 7.109004739%;
+  line-height: 75px;
+  clear: left;
+  border-bottom: 0px;
+  
+
+    
+}
+.b{
+    
+    width: 100%;
+  height: 14.2180094778%;
+  line-height: 150px;
+  border-right: 0px;
+  
+
+}
+.c{
+    border-right: 0px;
+   
+
+}
+
+
+.c,.d{
+    
+    width: 100%;
+  height: 11.848341232%;
+  line-height: 125px;
+
+}
+
+.e,.f,.g,.h{
+    width: 50%;
+  height: 23.696682464%;
+  line-height: 250px;
+  border-top: 0px;
+  
+}
+
+.i{
+    
+    width: 100%;
+  height: 7.582938388%;
+  line-height: 80px;
+  
+
+  
+}
